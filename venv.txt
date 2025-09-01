@@ -1,0 +1,10 @@
+#para criar um ambiente virtual
+python -m venv myvenv
+
+#para ativar o ambiente virtual
+
+.myvenv\Scripts\activate
+
+#para desativar o ambiente virtual
+
+deactivate
